@@ -9,3 +9,6 @@ test shell中是用于测试的shell，理论上应当使用linux生成，但是
 
 ### 写在最后的话
 其实助教未必会看你的报告，几乎一定不会检查你的代码，所以放轻松，享受学习之旅即可。祝同学们前程似锦！
+
+### FINAL UPDATE
+压缩包已经上传交大传承，收费0积分。如果是通过传承看到了这段文字，记得来[text](https://github.com/vegecream/SJTU-CS2651)点点star（doge）
